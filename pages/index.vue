@@ -2,8 +2,18 @@
 </script>
 
 <template>
-  <div class="bg-[#FCFCFC] flex flex-col  items-center gap-5">
-    <HearoSection />
-    <InfoSection />
+  <div>
+    <div class="flex flex-col items-center gap-5">
+      <HearoSection />
+      <InfoSection />
+    </div>
+    <BusinessSection />
+    <PlansSection />
   </div>
 </template>
+
+<style>
+body {
+  background-color: #FCFCFC;
+}
+</style>
