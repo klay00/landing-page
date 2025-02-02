@@ -4,10 +4,10 @@
 <template>
   <NuxtLoadingIndicator color="hsl(var(--primary))" />
   <main>
-    <HeaderSection />
+    <slot />
+    <!-- <HeaderSection />
      <div>
-        <slot />
      </div>
-    <FooterSection />
+    <FooterSection /> -->
   </main>
 </template>
