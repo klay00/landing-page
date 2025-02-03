@@ -15,6 +15,8 @@
       <GetStartedSection />
       <MoreThanSection />
       <LicensesSection />
+      <WebsiteBuilderSection />
+      <AdvantagesSection />
     </div>
   </div>
 </template>
