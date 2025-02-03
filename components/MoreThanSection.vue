@@ -11,7 +11,7 @@
                 purposes
             </h2>
         </div>
-        <p class="text-gray-600 text-[18px]  mt-4 text-center max-w-4xl leading-8">
+        <p class="text-gray-600 text-[22px]  mt-4 text-center max-w-4xl leading-8">
             For all types of business and personal activities, our website builder provides you with more than 1.000.000
             amazing, ready-to-use templates with a fully customizable and editable design.
         </p>

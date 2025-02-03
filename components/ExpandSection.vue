@@ -51,7 +51,7 @@ const toggleFAQ = (index) => {
                     <span>{{ faq.question }}</span>
                     <component :is="faq.isOpen ? Minus : Plus" class="w-6 h-6 text-gray-600" />
                 </button>
-                <p v-if="faq.isOpen" class="mt-2 text-gray-600 text-[16px] leading-8">{{ faq.answer }}</p>
+                <p v-if="faq.isOpen" class="mt-2 text-gray-600 text-[18px] leading-8">{{ faq.answer }}</p>
             </div>
         </div>
     </div>

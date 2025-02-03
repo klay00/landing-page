@@ -12,7 +12,7 @@ const list = ['Cert Manager', 'Helm Charts', 'Operators', 'Linkerd']
             <span class="text-4xl ">
                 Get started quickly with one-click apps
             </span>
-            <p class="text-[18px] font-light  leading-10">Kubernetes Engine supports integration with popular Kubernetes
+            <p class="text-[22px] font-light  leading-10">Kubernetes Engine supports integration with popular Kubernetes
                 tools, allowing you to create clusters that run pre-configured open source software with one click.
             </p>
             <div class="flex flex-wrap gap-4">

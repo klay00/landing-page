@@ -5,7 +5,7 @@
             <span class="font-bold">Kubernetes</span>
             clusters in just minutes
         </span>
-        <p class="text-[18px] font-light  leading-8">Stop wasting time and effort managing Kubernetes clusters. With
+        <p class="text-[22px] font-light  leading-8">Stop wasting time and effort managing Kubernetes clusters. With
             fully managed
             Kubernetes
             Engine, you can
