@@ -7,8 +7,13 @@
       <HearoSection />
       <InfoSection />
     </div>
-    <BusinessSection />
-    <PlansSection />
+    <div>
+    </div>
+    <div class="flex flex-col   gap-[200px]">
+      <BusinessSection />
+      <PlansSection />
+      <GetStartedSection />
+    </div>
   </div>
 </template>
 

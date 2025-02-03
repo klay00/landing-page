@@ -8,11 +8,11 @@ const cardList = [
 
 <template>
     <div
-        class="text-center relative h-[60vh] mt-[100px] text-[14px] flex flex-col    text-[#2B1F51] w-100 gap-4 justify-center">
+        class="text-center relative h-[60vh]  text-[14px] flex flex-col   text-[#2B1F51] w-100 gap-[50px] justify-center">
         <span class="text-4xl font-bold">Choose plans</span>
-        <div class="flex justify-center gap-2 items-center ">
-            <div v-for="color in  cardList " :key="card"
-                class="transform transition duration-100 hover:scale-110 max-w-xs min-w-[330px] mx-auto bg-white rounded-2xl shadow-lg border overflow-hidden">
+        <div class="flex justify-center gap-14 items-center flex-wrap">
+            <div v-for="color in cardList " :key="color"
+                class="transform transition duration-100 hover:scale-110 max-w-xs min-w-[330px]  bg-white rounded-2xl shadow-lg border overflow-hidden">
                 <!-- Header Bar -->
                 <div class="h-4 w-full" :style="{ backgroundColor: color }"></div>
 
