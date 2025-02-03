@@ -17,6 +17,7 @@
       <LicensesSection />
       <WebsiteBuilderSection />
       <AdvantagesSection />
+      <ExpandSection />
     </div>
   </div>
 </template>
