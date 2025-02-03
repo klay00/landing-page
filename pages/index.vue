@@ -13,6 +13,8 @@
       <BusinessSection />
       <PlansSection />
       <GetStartedSection />
+      <MoreThanSection />
+      <LicensesSection />
     </div>
   </div>
 </template>
